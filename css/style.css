@@ -1,0 +1,145 @@
+/* header */
+.top_header{
+    width: 1440px;
+    margin: auto;
+    padding: 38px 130px;
+    background-color: #2A9D8F;
+    vertical-align: middle;
+    
+}
+.header_logo{
+    vertical-align: middle;
+}
+
+.header_nav{
+    vertical-align: middle;
+    
+    
+    
+}
+.header_li{
+    display: inline-block;
+    
+    
+    
+}   
+.header_logo_link{
+    font-family: 'Nerko One', cursive;
+    color: #FFF;
+    font-family: Nerko One;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    vertical-align: middle;
+    
+/* 150% */
+}
+
+
+.middle_li{
+    margin-inline: 50px ;
+    
+}
+.button1{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 8px 16px;
+    background: #FFFFFF;
+    font-family: 'Nerko One', cursive;
+    font-size: 20px;
+    color: #FFFFFF;margin-inline: 987px 180px ;
+    
+}
+.section1{
+    margin: auto;
+    height: 856px;
+}
+.main_text1{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 48px;
+    margin: 322px 548px 60px 549px
+}
+.article_text1{
+    font-family: Nerko One;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: justified;
+    margin: 60px 330px 52px 330px;
+}
+.article_text2{
+    font-family: Nerko One;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: justified;
+    margin: 52px 330px 200px 330px;
+    
+
+}
+
+
+.section2{
+    display: inline-block;
+    padding: 80px 120px 80px 130px;
+    background: #C2F3EE;
+    width: 1440px;
+    
+}
+.article_text3{
+    display: inline-block;
+    width: 457px;
+    vertical-align: top;
+}
+
+    
+
+
+
+.main_text2{ 
+    display: inline-block;
+    width: 457px;
+    height: 96px;
+    font-size: 32px;
+    vertical-align: top;
+    margin-left: 123px;
+   
+
+    
+
+
+}
+.text1{
+    display: inline-block;
+    color: #515151;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px; 
+    letter-spacing: 0.09px;
+    margin-left: 120px;
+}
+
+.text2{
+    /* Heading 1/medium */ 
+    color: #4D4D4D;
+    font-size: 48px;   
+    font-weight: 500;
+    line-height: 130%; /* 62.4px */
+    letter-spacing: 0.24px;}
+
+
+.text2{
+    margin: 200px 463px 54px 462px;
+
+}
+.images2{
+margin-inline:130px 16px;
+}
+footer {
+    width: 1440px;
+    margin: auto;
+    padding: 90px 130px 148px 130px;
+    background-color: #2A9D8F;
+}
